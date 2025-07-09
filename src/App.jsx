@@ -21,7 +21,7 @@ function App() {
       </Routes>
       <footer className="footer">
   <p>
-    Project Repository: <a href="https://youtube.com" target="_blank">GitHub Link</a>
+    Project Repository: <a href="https://github.com/MevanFantastic/online-library-system.git" target="_blank">GitHub Link</a>
   </p>
   <p>Created by Mevan</p>
 </footer>
